@@ -1,6 +1,6 @@
 import * as readline from "readline";
 
-import { GameInterface } from "./types";
+import { GameInterface } from "./Game/types";
 
 export default class GUI {
   interface: readline.Interface;

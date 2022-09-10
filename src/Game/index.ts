@@ -1,4 +1,4 @@
-import { CellState, GameState, GameInterface } from "../types";
+import { CellState, GameState, GameInterface } from "./types";
 
 import Board from "./Board";
 
