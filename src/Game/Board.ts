@@ -1,4 +1,4 @@
-import { CellState } from "./types";
+import { CellState } from "../types";
 
 export default class Board {
   cells: CellState[] = Array(9).fill(CellState.EMPTY);
